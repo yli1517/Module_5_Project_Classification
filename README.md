@@ -7,22 +7,21 @@
 
 ## Goals:
 
- - [ ] Find the macro features controllable that predict diabetes.
+ - [ ] Diabetes prediction using machine learning classification methods. 
 
 ## Responsibilities
 
- - [ ] Yijing was the master: she cleaned the data and did the analysis of the time of release of movies
- - [ ] Sonia did the analysis of the genre of movies 
+ - [ ] Data import and data cleaning: Yijing
+ - [ ] Build logistic regression and decision tree models and model evaluation: Yijing
+ - [ ] Build SVM and random forest models and model evaluation: Sonia
  - [ ] We both worked on the notebooks and the presentation
 
 ## Summary of the Files
 
- - [ ] gitignore ignores files that are tracked in a special file named 
- - [ ] General Notebook targets to a non-technical audience 
+ - [ ] README file lists project members, goal, responsibilities, and a summary of the files
  - [ ] Technical Notebook targets to a technical audience
- - [ ] Movie Proposal pdf presents project to a non-technical audience
- - [ ] README lists project members, goals, responsibilities, and a summary of the files
- - [ ] Cleaning Data that contains clean dataset & record parameters
+ - [ ] An executive summary project presentation in pdf format
+ - [ ] Pyfiles that contain functions for data import, cleaning, and feature engineering 
  
  ## Deliverables
  - [ ] A Technical Jupyter Notebook containing any code you've written for this project. This work will need to be pushed to your GitHub repository in order to submit your project. This notebook is clean and narrative. Extra data cleaning functions and additional EDA should be done in separate notebooks or, preferably, in separate .py files.
