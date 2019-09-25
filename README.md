@@ -9,13 +9,6 @@
 
  - [ ] Diabetes prediction using machine learning classification methods. 
  
- ## DataSets:
-
- - [ ] Collection of DataSets from the National Center for Health Statistics (https://wwwn.cdc.gov/nchs/nhanes/Default.aspx)
- - [ ] 
- - [ ] 
- - [ ] 
-
 ## Responsibilities
 
  - [ ] Data import and data cleaning: Yijing
